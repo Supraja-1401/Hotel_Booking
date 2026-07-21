@@ -17,3 +17,21 @@ The Hotel Booking Website is a responsive web application developed using HTML, 
 - JavaScript
 
 ## Project Structure
+Hotel_Booking/
+│── index.html
+│── Hotel.css
+└── Hotel.js
+
+## How to Run
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+3. Or use the Live Server extension in VS Code.
+
+## Future Improvements
+- User authentication
+- Payment gateway integration
+- Database connectivity
+- Booking history
+
+## Author
+Supraja Nayineni
