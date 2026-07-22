@@ -25,7 +25,10 @@ Hotel_Booking/
 ## How to Run
 1. Download or clone the repository.
 2. Open `index.html` in any web browser.
-3. Or use the Live Server extension in VS Code.
+3. Or use the Live Server extension in VS Code
+
+🌐 Live Demo
+https://supraja-1401.github.io/Hotel_Booking/
 
 ## Future Improvements
 - User authentication
